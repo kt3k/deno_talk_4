@@ -4,6 +4,8 @@ class: middle, center
 
 <img width="700" src="assets/img/banner.png" />
 
+[en](index.en.html) | [ja](index.html)
+
 ---
 # [Issue 1456](https://github.com/denoland/deno/issues/1456)
 

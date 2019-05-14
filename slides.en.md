@@ -4,6 +4,8 @@ class: middle, center
 
 <img width="700" src="assets/img/banner.png" />
 
+[en](index.en.html) | [ja](index.html)
+
 ---
 # [Issue 1456](https://github.com/denoland/deno/issues/1456)
 
@@ -15,7 +17,7 @@ Everyone wants
 <img width="800" src="assets/img/1456b.png" />
 ---
 class: middle, center
-Old issue
+An Old Issue
 <img width="800" src="assets/img/1456a.png" />
 
 ... Still Open
@@ -31,7 +33,7 @@ Who I am - @kt3k
 
 Yoshiya Hinosawa
 
-- Freelancer Frontend Engineer (Writes React daily)
+- A Freelance Frontend Engineer (Writes React daily)
 - Works in <img width="150" src="assets/img/r.png" /> & <img width="150" src="assets/img/s.png" />
 
 ---

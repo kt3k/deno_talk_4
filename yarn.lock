@@ -2257,10 +2257,10 @@ regex-not@^1.0.0, regex-not@^1.0.2:
     extend-shallow "^3.0.2"
     safe-regex "^1.1.0"
 
-remarker@^1.9.4:
-  version "1.9.4"
-  resolved "https://registry.yarnpkg.com/remarker/-/remarker-1.9.4.tgz#78d1e095e65dc791e9d6af99500611c23a48db88"
-  integrity sha512-tipa8v3BPvneRJ2TvI5wM8d3UE9J6cNVe9BVL3FOtAf7MNFSmXXJTwu5SvX70T+Baw+MR9Gr5eyCRSExsc0H4A==
+remarker@^1.10.0:
+  version "1.10.0"
+  resolved "https://registry.yarnpkg.com/remarker/-/remarker-1.10.0.tgz#8a34d74ebbe891fe00346246502f2367730f8f9b"
+  integrity sha512-8t4PK1tQ8Qcy0dqO4SIXNfvKe8+VHNGKce/oAOkwQGaqXj/5FbyaPItwAmBE25YYalr/x2etMS9ox7FyYULfwA==
   dependencies:
     berber "^1.4.0"
     connect-livereload "^0.6.0"
